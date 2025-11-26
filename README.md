@@ -1,8 +1,3 @@
-Here is a significantly more detailed **Professional `README.md`** for your `tech-stack-tracker`.
-
-I have expanded the **Project Architecture**, **Scripts**, **Configuration**, and added a specific **Contribution Guide** that includes instructions on how to set up the GPG signatures you require.
-
-````markdown
 # 💻 Tech Stack Tracker
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
