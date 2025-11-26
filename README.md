@@ -175,7 +175,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
   * GitHub: [@Raja-89](https://www.google.com/search?q=https://github.com/Raja-89)
 
-> *This project is part of my journey in mastering Web Development.*
-
-```
-```
